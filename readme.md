@@ -1,7 +1,7 @@
-
-# uPow Incentive Template
-
-## iNode (Incentive Node)
+<h1 align="center">uPow Incentive Template</h1>
+<p align="center">
+  <strong>iNode (Incentive Node)</strong>
+</p>
 
 ### Template:
 
