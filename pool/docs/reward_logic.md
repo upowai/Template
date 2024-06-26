@@ -1,6 +1,6 @@
 ## Reward_logic Documentation
 
-##(`miner_reward.py`) Documentation
+## (`miner_reward.py`) Documentation
 
 ### `update_miner_balances`
 
