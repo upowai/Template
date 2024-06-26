@@ -1,4 +1,4 @@
-# Developer Documentation for MinerPool Script
+#iNode Documentation
 
 ## (`main.py`) Documentation
 
